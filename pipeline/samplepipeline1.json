@@ -1,0 +1,12 @@
+{
+	"name": "samplepipeline1",
+	"properties": {
+		"description": "This is my sample pipeline",
+		"parameters": {
+			"fileName": {
+				"type": "string"
+			}
+		},
+		"annotations": []
+	}
+}
